@@ -1,0 +1,43 @@
+h1{
+    position: inherit;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+button{
+    background-color:gray;
+    padding: 5px 20px;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+button:hover{
+    top: 450px;
+    background-color: white;
+    color: gray;
+    text-align: center;
+    border: 2px solid #F5F5DC;
+}
+.hi{
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+hi.button1{
+    background-color:red;
+    padding: 15px 25px;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+hi.button1:hover{
+    background-color: white;
+    color: red;
+    text-align: center;
+    border: 2px solid whitesmoke;
+}
